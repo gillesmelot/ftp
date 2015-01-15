@@ -1,0 +1,20 @@
+{
+    "name": "gime/ftp",
+    "description": "",
+    "authors": [
+        {
+            "name": "Gilles Mélot",
+            "email": "me@tallgeese.be"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Gime\\Ftp": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
